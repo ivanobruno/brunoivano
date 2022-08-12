@@ -4,6 +4,6 @@
  <h3>Hi there</h3>
   <h4>Thank you for visiting my profile</h4>
 <h5>
-    <a href="https://ivanobruno.github.io/portfolio-project/" rel="nofollow">Website</a>
+    <a href="https://ivanobruno.github.io/brunoivano/">Website</a>
   </h5>
 </div>
