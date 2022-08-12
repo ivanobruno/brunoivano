@@ -148,6 +148,7 @@ a.btn-outline-primary:hover, button.btn-outline-primary:hover{
     position: relative;
     width: 100%;
     height: 800px;
+    background-image: url("");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
