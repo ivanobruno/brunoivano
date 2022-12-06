@@ -1,3 +1,5 @@
+import '../scss/style.scss';
+
 /*Scrollify*/
 $.scrollify({
 	section : ".box",
