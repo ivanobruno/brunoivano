@@ -1,5 +1,3 @@
-import '../scss/style.scss';
-
 /*Scrollify*/
 $.scrollify({
 	section : ".box",
@@ -8,7 +6,7 @@ $.scrollify({
 	easing: "swing",
     scrollSpeed: 50,
 	before:function(i,panels) {
-    var ref = panels[i].attr("data-section-name");
+    var ref = panels[i].attr("adata-section-name");
         $(".pagination .active").removeClass("active");
         $(".pagination").find("a[href=\"#" + ref + "\"]").addClass("active");
     },
