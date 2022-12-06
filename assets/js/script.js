@@ -49,6 +49,7 @@ function update_carousel_words(){
         counter = 0;
     }
 };
+//particlesJS
 particlesJS("particles-js", {
     particles: {
         number: { value: 80, density: { enable: true, value_area: 800 } },
